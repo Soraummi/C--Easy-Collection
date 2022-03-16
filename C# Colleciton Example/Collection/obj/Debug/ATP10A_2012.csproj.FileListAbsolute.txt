@@ -1,0 +1,9 @@
+F:\ATP10A_2012\ATP10A_2012\bin\Debug\ATP10A_2012.exe.config
+F:\ATP10A_2012\ATP10A_2012\bin\Debug\ATP10A_2012.exe
+F:\ATP10A_2012\ATP10A_2012\bin\Debug\ATP10A_2012.pdb
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.csprojResolveAssemblyReference.cache
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.Form1.resources
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.Properties.Resources.resources
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.csproj.GenerateResource.Cache
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.exe
+F:\ATP10A_2012\ATP10A_2012\obj\Debug\ATP10A_2012.pdb
